@@ -1,0 +1,13 @@
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\bin\Debug\netcoreapp3.1\GamblingProgram.exe
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\bin\Debug\netcoreapp3.1\GamblingProgram.deps.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\bin\Debug\netcoreapp3.1\GamblingProgram.runtimeconfig.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\bin\Debug\netcoreapp3.1\GamblingProgram.runtimeconfig.dev.json
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\bin\Debug\netcoreapp3.1\GamblingProgram.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\bin\Debug\netcoreapp3.1\GamblingProgram.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\obj\Debug\netcoreapp3.1\GamblingProgram.csprojAssemblyReference.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\obj\Debug\netcoreapp3.1\GamblingProgram.AssemblyInfoInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\obj\Debug\netcoreapp3.1\GamblingProgram.AssemblyInfo.cs
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\obj\Debug\netcoreapp3.1\GamblingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\obj\Debug\netcoreapp3.1\GamblingProgram.dll
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\obj\Debug\netcoreapp3.1\GamblingProgram.pdb
+C:\Users\Vijay Kshirasagar\Desktop\C# Work\GamblingProgram\GamblingProgram\obj\Debug\netcoreapp3.1\GamblingProgram.genruntimeconfig.cache
