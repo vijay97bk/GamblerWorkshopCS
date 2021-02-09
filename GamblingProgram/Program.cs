@@ -14,5 +14,9 @@ namespace GamblingProgram
             int betEachGame = 1;
 
         }
+        public static void GamblerBet();
+        {
+
+        }
     }
 }
