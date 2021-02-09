@@ -4,18 +4,36 @@ namespace GamblingProgram
 {
     class Program
     {
+       public static int gamblerAmountDay = 100;
+        public static int gamblerHalfAmount = 50;
+        public static int betEachGame = 1;
         static void Main(string[] args)
         {
-            GamblerDetails();
+            
+                GamblerBet();
+           
         }
-        public static void GamblerDetails()
+     
+        public static void GamblerBet()
         {
-            int gamblerAmountDay = 100;
-            int betEachGame = 1;
+            while (gamblerAmountDay <= gamblerHalfAmount)
+            {
+                Random random = new Random();
+                int bet = random.Next(0, 2);
+                if (bet == 0)
+                {
+                    Console.WriteLine("lost the bet");
+                    gamblerAmountDay--;
 
-        }
-        public static void GamblerBet();
-        {
+                }
+                else
+                {
+                    Console.WriteLine("you won the bet");
+                    gamblerAmountDay++;
+                }
+            }
+
+         
 
         }
     }
